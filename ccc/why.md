@@ -1,5 +1,7 @@
 karpathy 用外行人觀點解釋為什麼要創造 llm.c 這一個專案
 
+來源 : https://twitter.com/karpathy/status/1778153659106533806?s=12
+
 # 用外行術語解釋 llm.c
 
 訓練大型語言模型 (LLM)（例如 ChatGPT）涉及大量程式碼和複雜性。
